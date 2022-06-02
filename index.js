@@ -28,7 +28,7 @@ else if(string===string.toUpperCase()){
 else if(string===string.toUpperCase()){
   return 'YES INDEED!';
 } 
-else if (string==="Let\'s have dinner together!"){
-  return "I would love to!"
-}
+else (string==="Let\'s have dinner together!")
+{
+  return "I would love to!";}
 } 
